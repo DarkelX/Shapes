@@ -1,0 +1,7 @@
+/.vs
+/packages
+/Shapes/bin
+/Shapes/obj
+/Shapes.Tests/bin
+/Shapes.Tests/obj
+.vsconfig
