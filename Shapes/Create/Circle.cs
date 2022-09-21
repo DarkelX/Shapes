@@ -7,7 +7,7 @@
         public Circle(double radius)
         {
             if (double.IsNegative(radius))
-                throw new Exception("Side can't be negative");
+                throw new Exception("Radius can't be negative");
             Radius = radius;
         }
 
